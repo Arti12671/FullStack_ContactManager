@@ -1,0 +1,88 @@
+{
+  "contacts": [
+    {
+      "id": "AAA11",
+      "name": "Arti",
+      "photo": "https://img.freepik.com/premium-photo/3d-avatar-character_113255-30530.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "8975666075",
+      "email": "arti@gmail.com",
+      "company": "Google",
+      "title": "Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "AAA14",
+      "name": "Shital",
+      "photo": "https://img.freepik.com/free-photo/portrait-3d-female-doctor_23-2151107459.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "7975666075",
+      "email": "shital@gmail.com",
+      "company": "DY",
+      "title": "Nerse",
+      "groupId": "2"
+    },
+    {
+      "id": "AAA15",
+      "name": "Punam",
+      "photo": "https://img.freepik.com/free-photo/portrait-beautiful-girl-yellow-coat-with-backpack_1142-55171.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "7875666075",
+      "email": "punam@gmail.com",
+      "company": "IDFC",
+      "title": "accountant",
+      "groupId": "3"
+    },
+    {
+      "id": "AAA17",
+      "name": "Sakshi",
+      "photo": "https://img.freepik.com/premium-photo/3d-avatar-character_113255-32519.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "9975666075",
+      "email": "sakshi@gmail.com",
+      "company": "Accenture",
+      "title": "Developer",
+      "groupId": "3"
+    },
+    {
+      "id": "AAA18",
+      "name": "Neha",
+      "photo": "https://img.freepik.com/premium-photo/3d-avatar-character_113255-32350.jpg?size=626&ext=jpg&ga=GA1.1.570072583.1715681516&semt=ais_user",
+      "contact": "8875666075",
+      "email": "neha@gmail.com",
+      "company": "PCMC",
+      "title": "CA",
+      "groupId": "2"
+    },
+    {
+      "id": "AAA19",
+      "name": "Manoj",
+      "photo": "https://img.freepik.com/free-photo/3d-illustration-cute-cartoon-boy-with-backpack-glasses_1142-38729.jpg?t=st=1715866478~exp=1715870078~hmac=c682666e8d7fb1ad2c43f196a7ac8e80daec6f331bf0d7ee0dca107138ca63d5&w=740",
+      "contact": "7975666075",
+      "email": "Manoj@gmail.com",
+      "company": "RISE",
+      "title": "Developer",
+      "groupId": "2"
+    },
+    {
+      "id": "AAA20",
+      "name": "Ganesh",
+      "photo": "https://img.freepik.com/premium-photo/3d-illustration-teenager-boy-with-backpack-his-head_1142-50393.jpg?w=740",
+      "contact": "7875666070",
+      "email": "ganesh@gmail.com",
+      "company": "IDFC",
+      "title": "accountant",
+      "groupId": "1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "family"
+    },
+    {
+      "id": "2",
+      "name": "friends"
+    },
+    {
+      "id": "1",
+      "name": "social"
+    }
+  ]
+}

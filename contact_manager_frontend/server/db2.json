@@ -1,0 +1,84 @@
+{
+    "temperature": [
+        {
+            "id": "1",
+            "temperature": "20 degC",
+            "humidity": "80%",
+            "city": "Pune",
+            "wind":"10 km/h",
+            "photo": "https://static.vecteezy.com/system/resources/previews/024/825/195/non_2x/3d-weather-icon-day-with-rain-free-png.png"
+        },
+        {
+            "id": "2",
+            "temperature": "22 degC",
+            "humidity": "85%",
+            "city": "Mumbai",
+            "wind":"12 km/h",
+            "photo": "https://static.vecteezy.com/system/resources/thumbnails/008/854/791/small/thunderstorm-rain-icon-weather-forecast-meteorological-sign-3d-render-png.png"
+        },
+        {
+            "id": "3",
+            "temperature": "26 degC",
+            "humidity": "70%",
+            "city": "Nashik",
+            "wind":"20 km/h",
+            "photo": "https://static.vecteezy.com/system/resources/thumbnails/008/854/796/small/weather-forecast-icon-cloudy-day-cloudy-with-sun-meteorology-sign-3d-rendering-png.png"
+        },
+        {
+            "id": "4",
+            "temperature": "25 degC",
+            "humidity": "80%",
+            "city": "Nagpur",
+            "wind":"8 km/h",
+            "photo": "https://static.vecteezy.com/system/resources/thumbnails/012/177/446/small/weather-rain-weather-forecast-icon-meteorological-sign-3d-render-png.png"
+        },
+        {
+            "id": "5",
+            "temperature": "35 degC",
+            "humidity": "60%",
+            "city": "Amravati",
+            "wind":"9 km/h",
+            "photo": "https://static.vecteezy.com/system/resources/thumbnails/012/066/505/small/sunny-and-rainy-day-weather-forecast-icon-meteorological-sign-3d-render-png.png"
+        },
+        {
+            "id": "6",
+            "temperature": "20 degC",
+            "humidity": "70%",
+            "city": "Solapur",
+            "wind":"13 km/h",
+            "photo": "https://static.vecteezy.com/system/resources/thumbnails/019/764/195/small/windy-sunny-on-transparent-background-free-png.png"
+        },
+        {
+            "id": "7",
+            "temperature": "31 degC",
+            "humidity": "75%",
+            "city": "Kolhapur",
+            "wind":"11 km/h",
+            "photo": "https://static.vecteezy.com/system/resources/thumbnails/019/764/195/small/windy-sunny-on-transparent-background-free-png.png"
+        },
+        {
+            "id": "8",
+            "temperature": "32 degC",
+            "humidity": "70%",
+            "city": "Akola",
+            "wind":"15 km/h",
+            "photo": "https://static.vecteezy.com/system/resources/thumbnails/012/066/504/small/sunny-and-windy-day-weather-forecast-icon-meteorological-sign-3d-render-png.png"
+        },
+        {
+            "id": "9",
+            "temperature": "21 degC",
+            "humidity": "80%",
+            "city": "Satara",
+            "wind":"18 km/h",
+            "photo": "https://static.vecteezy.com/system/resources/thumbnails/012/177/446/small/weather-rain-weather-forecast-icon-meteorological-sign-3d-render-png.png"
+        },
+        {
+            "id": "10",
+            "temperature": "27 degC",
+            "humidity": "75%",
+            "city": "Latur",
+            "wind":"13 km/h",
+            "photo": "https://static.vecteezy.com/system/resources/thumbnails/022/287/832/small/3d-rendering-sun-icon-3d-render-sunny-weather-icon-sun-png.png"
+        }
+    ]
+}
